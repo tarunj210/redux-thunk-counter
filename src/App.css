@@ -1,0 +1,54 @@
+.App {
+
+  text-align: center;
+}
+
+.incrementBtn {
+  display: inline-block;
+  background-color: #7b38d8;
+  border-radius: 5px;
+  border: 2px double #cccccc;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 50px;
+}
+
+.decrementBtn {
+  display: inline-block;
+  background-color: #7b38d8;
+  border-radius: 5px;
+  border: 2px double #cccccc;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 50px;
+}
+
+.resetBtn {
+  display: inline-block;
+  background-color: #7b38d8;
+  border-radius: 5px;
+  border: 2px double #cccccc;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  width: 75px;
+}
+
+
+
+.changeBtn {
+  display: inline-block;
+  background-color: #7b38d8;
+  border-radius: 5px;
+  border: 2px double #cccccc;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 13px;
+  padding: 10px;
+  width: 100px;
+}
